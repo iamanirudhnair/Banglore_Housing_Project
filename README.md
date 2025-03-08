@@ -3,6 +3,8 @@
 ## Overview
 This project demonstrates the process of building a real estate price prediction website using machine learning, specifically linear regression. The model predicts the price of properties in Bangalore based on input features like square footage, number of bedrooms, etc. This project involves data cleaning, feature engineering, model training, hyperparameter tuning, and web deployment. The application uses Python, Flask for the backend, and HTML/CSS/JavaScript for the front end, and the project is hosted on AWS Cloud.
 
+![image_alt](https://github.com/iamanirudhnair/Banglore_Housing_Project/blob/main/banglore%20house%20price.png?raw=true)
+
 ## Project Components
 1. **Model Building with Scikit-Learn**: We built a machine learning model using linear regression to predict property prices. The dataset used is from Kaggle, containing data on home prices in Bangalore.
 2. **Flask Server**: A Python Flask server was implemented to serve the trained model and handle HTTP requests from the front end.
